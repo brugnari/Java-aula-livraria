@@ -44,7 +44,7 @@ public class Pessoa
         this.idade = idade;
     }
     @Override
-    public String ToString(){
+    public String toString(){
     return "nome"+getNome()+"idade"+getIdade()+"login"+getLogin();
     }
     

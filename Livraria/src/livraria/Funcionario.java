@@ -1,5 +1,5 @@
-package livraria;
-public class Funcionario {
+package livraria ;
+public class Funcionario extends Pessoa{
     private double salario;
     private double INSS;
     
